@@ -7,7 +7,7 @@ A Simple Warp plugin for you PowerNukkitX server
 - [x] Teleport to Warp
 
 # TODO FEATURES
-- [ ] UI Suport
+- [ ] UI Support
 - [ ] Warp List
 - [ ] Edit Warp
 
