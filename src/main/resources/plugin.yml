@@ -1,0 +1,18 @@
+name: WarpPNX
+main: me.azelf.warppnx.WarpPNX
+api: 2.0.0
+version: 1.0-BETA
+author: AzelF
+load: POSTWORLD
+
+commands:
+ warp:
+  description: Warp Command
+  usage: /warp <create|delete|teleport> [warpName]
+permissions:
+ warppnx.create:
+  description: permission create warp 
+  default: op
+ warppnx.delete:
+  description: permission delete warp
+  default: op

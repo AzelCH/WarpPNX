@@ -1,0 +1,18 @@
+# Config file for WarpPNX plugin
+
+# Use %warp% for warp name
+
+# Message sent when a player does not have permission
+no-permission: "§cYou don't have permission to use this command."
+
+# Message sent when a warp is successfully created
+warp-create-success: "§aWarp %warp% has been created successfully!"
+
+# Message sent when a warp is successfully removed
+warp-remove-success: "§6Warp %warp% has been removed"
+
+# Title settings
+enable-title: true
+title: "§l§e%warp%"
+
+# Add more configuration options as needed
